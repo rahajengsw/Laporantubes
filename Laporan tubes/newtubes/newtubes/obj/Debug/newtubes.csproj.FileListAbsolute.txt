@@ -1,0 +1,12 @@
+E:\Semester 4\pemrograman terstruktur\newtubes\newtubes\bin\Debug\newtubes.exe.config
+E:\Semester 4\pemrograman terstruktur\newtubes\newtubes\bin\Debug\newtubes.exe
+E:\Semester 4\pemrograman terstruktur\newtubes\newtubes\bin\Debug\newtubes.pdb
+E:\Semester 4\pemrograman terstruktur\newtubes\newtubes\obj\Debug\newtubes.csprojResolveAssemblyReference.cache
+E:\Semester 4\pemrograman terstruktur\newtubes\newtubes\obj\Debug\newtubes.Form1.resources
+E:\Semester 4\pemrograman terstruktur\newtubes\newtubes\obj\Debug\newtubes.Properties.Resources.resources
+E:\Semester 4\pemrograman terstruktur\newtubes\newtubes\obj\Debug\newtubes.csproj.GenerateResource.Cache
+E:\Semester 4\pemrograman terstruktur\newtubes\newtubes\obj\Debug\newtubes.exe
+E:\Semester 4\pemrograman terstruktur\newtubes\newtubes\obj\Debug\newtubes.pdb
+E:\Semester 4\pemrograman terstruktur\newtubes\newtubes\obj\Debug\newtubes.motor.resources
+E:\Semester 4\pemrograman terstruktur\newtubes\newtubes\obj\Debug\newtubes.barang.resources
+E:\Semester 4\pemrograman terstruktur\newtubes\newtubes\obj\Debug\newtubes.surat.resources
